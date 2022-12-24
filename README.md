@@ -1,5 +1,5 @@
-#Employees Data App
-### ui using chart to describe some information about five employees
+# Employees Data App
+ui using chart to describe some information about five employees
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
